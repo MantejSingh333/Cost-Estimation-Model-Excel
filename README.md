@@ -1,4 +1,4 @@
-# Cost Estimation Model – AI Writing Tool (Years 6–8)
+# Cost Estimation Model (Excel)
 
 Excel-based project estimating the monthly operational cost of an AI-powered online writing tool for Year 6–8 students in New Zealand.
 
