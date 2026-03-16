@@ -1,9 +1,7 @@
 # Cost Estimation Model (Excel)
 
-Excel-based project estimating the monthly operational cost of an AI-powered online writing tool for Year 6–8 students in New Zealand.
-
 ## Overview
-Forecasted monthly costs based on student usage, session frequency, and complexity by year level.
+Developed an Excel-based cost estimation model for an AI-powered online writing tool, forecasting monthly operational costs based on student usage, session frequency, and activity complexity across Year 6–8 levels in New Zealand.
 
 ## Key Assumptions
 - 120,000 students across Years 6–8  
